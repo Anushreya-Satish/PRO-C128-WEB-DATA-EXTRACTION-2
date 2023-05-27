@@ -1,0 +1,9 @@
+id,Brown_Dwarf,Constellation,Right_ascension,Declination,Apparent_magnitude,Distance,Spectral_type,Mass,Radius,Discovery_year
+0,Carina,10h 53m 41s,–61° 25′ 15″,15.8,8450,,b,<14,0.9,0.589128
+1,Lupus,15h 56m 42s,–37° 49′ 16″,10.5,400,G5V:e,b,≥27,,3.71
+2,Draco,16h 34m 27s,+57° 09′ 00″,12.90,48,M4,b,64,,73
+3,Leo,10h 16m 45s,+19° 53′ 29″,9.75,652,K2II,b,21.42,,379.63
+4,Andromeda,00h 36m 46s,+44° 29′ 19″,5.16,655.58,K5III,c,60,,650
+5,Virgo,12h 00m 44s,−10° 26′ 46″,5.54,42.1,G9,b,17.2,,2752
+6,Ara,17h 11m 16s,−56° 40′ 51″,7.25,220,G5V,c,18.4,,2900
+7,Cassiopeia,00h 32m 27s,+67° 14′ 09″,10.38,326,M2.5V,b,16,,~5500
